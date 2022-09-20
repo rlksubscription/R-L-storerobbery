@@ -8,5 +8,5 @@ Hit the cash registers to get quick cash (10-20 secs [advanced lockpick], 20-40 
 * qb-lock - https://github.com/Nathan-FiveM/qb-lock
 * memorygame_2 - https://github.com/Nathan-FiveM/memorygame_2
 
-* For More Info Join here
+# For More Info Join here
 https://discord.gg/BKZMnrR2q2
