@@ -9,4 +9,4 @@ Hit the cash registers to get quick cash (10-20 secs [advanced lockpick], 20-40 
 * memorygame_2 - https://github.com/Nathan-FiveM/memorygame_2
 
 # For More Info Join here
-https://discord.gg/BKZMnrR2q2
+https://discord.gg/xn6e8uy5bz
